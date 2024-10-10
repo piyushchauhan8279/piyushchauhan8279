@@ -14,12 +14,16 @@ Fake Product Analysis : CounterFitting of Product by using Machine learning Algo
 
 Blog Platform : Blog Website , Where User can upload their blog/articles and interact with others using comemnts etc.
 
-🔍 Interests : Artificial Intelligence & Machine Learnin
+🔍 Interests : 
+Artificial Intelligence & Machine Learnin
 Web Development
-
 Open-source Contributions
-
 Software Engineering
+
+Technologies : 
+Java 
+Html 
+Css Py
 
 🌐 Connect with Me
 LinkedIn :- https://www.linkedin.com/in/piyush-chauhan-972108259/ 
