@@ -8,10 +8,13 @@ Currently , I am learning Data Structures and Algorithms in Java Programming and
 
 💻 My Projects :
 AI Yoga Trainer: An innovative tool using artificial intelligence to guide users through personalized yoga sessions.
+
 Fake Product Analysis : CounterFitting of Product by using Machine learning Algorithms.
+
 Blog Platform : Blog Website , Where User can upload their blog/articles and interact with others using comemnts etc.
 
 🔍 Interests :
+
 Artificial Intelligence & Machine Learning
 Web Development
 Open-source Contributions
