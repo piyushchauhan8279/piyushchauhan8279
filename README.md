@@ -1,4 +1,4 @@
-👋 Hi, I'm Piyush Chauhan 
+👋 #Hi, I'm Piyush Chauhan 
 I'm a 3rd Year Computer Science Student of Coer University , Roorkee , Uttarakhand.
 I'm a passionate developer and open-source enthusiast. I love building tools and applications that solve real-world problems, and I'm particularly interested in AI, machine learning, and web development. 
 
