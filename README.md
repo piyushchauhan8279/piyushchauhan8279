@@ -1,6 +1,6 @@
-- 👋 Hii , I am Piyush Chauhan . I am a Computer Science Student of 3rd year. I am pursuing my Btech in Computer Science from Coer University, Roorkee , Uttarakhand.
-- 👀 I’m interested in Competetive Coding and Web Development .
-- 🌱 I’m currently learning Data Structures and Algorithms in java .
+- 👋 Hii , I am Piyush Chauhan . I am a Computer Science  3rd year student of Coer University.
+- 👀 I’m interested in Competetive Coding and Web Development. I like  to solve Coding  problems on LeetCode.
+- 🌱 I’m currently learning Data Structures and Algorithms in java.
 - 📫 You can Connect with me on LinkedIn . My Linkedin profile :- https://www.linkedin.com/in/piyush-chauhan-972108259/ 
 
 
