@@ -20,10 +20,6 @@ Web Development
 Open-source Contributions
 Software Engineering
 
-Technologies : 
-Java 
-Html 
-Css Py
 
 🌐 Connect with Me
 LinkedIn :- https://www.linkedin.com/in/piyush-chauhan-972108259/ 
