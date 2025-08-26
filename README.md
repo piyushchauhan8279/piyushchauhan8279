@@ -30,4 +30,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan8279&layout=compact&theme=react)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyushchauhan8279&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=piyushchauhan8279)](https://github.com/ryo-ma/github-profile-trophy)
